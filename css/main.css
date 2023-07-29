@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image:url('/Media/desktop.jpg');
+    background-image:url('https://goshishah.github.io/imei-checker/Media/desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -11,7 +11,7 @@ body{
 
 @media (max-width:600px) {
   body{
-    background-image:url('/Media/mobile.jpg');
+    background-image:url('https://goshishah.github.io/imei-checker/Media/mobile.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

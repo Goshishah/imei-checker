@@ -33,7 +33,7 @@ X.addEventListener("click", () => {
     .forEach((number) => {
       document.getElementById("container").style.display = "none";
       document.getElementById("loading").innerHTML =
-        '<img id="loadingimg" src="/Media/load.gif" alt="Loading Image">';
+        '<img id="loadingimg" src="https://goshishah.github.io/imei-checker/Media/load.gif" alt="Loading Image">';
       document.getElementById("loading").style.display = "flex";
       setTimeout(() => {
         const XHR = new XMLHttpRequest();
